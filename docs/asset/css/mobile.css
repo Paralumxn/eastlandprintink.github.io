@@ -106,6 +106,10 @@
 }
 
 @media screen and (max-width: 600px) {
+    body {
+        overflow-x: hidden;
+    }
+
     .EastLandLogo {
         width: 60% !important;
     }
