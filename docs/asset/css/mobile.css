@@ -173,7 +173,9 @@
 
     .EPI {
         margin-left: 0px !important;
-        margin-top: 0px !important;
+        margin-top: 40px !important;
+        width: 160px !important;
+        font-size: 27px !important;
     }
     
     .margins2 {
