@@ -3,7 +3,7 @@
     width: 100%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 600px) {
     /* For tablets: */
     .col-md-1 {
         width: 8.33%;
@@ -105,7 +105,7 @@
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 600px) {
     body {
         overflow-x: hidden;
     }
