@@ -151,15 +151,25 @@
         margin-right: 15px;
     }
 
-    .loob, .loob1, .viewrifyimage {
+    .loob, .loob1, .viewrifyimage, .marina  {
         width: 93% !important;
         margin-top: 60px;
         margin-left: 15px;
         margin-right: 15px;
     }
 
+    .apostille, .apostille3 {
+        width: 93%;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .marina, .apostille, .apostille3 {
+        margin-bottom: 20px;
+    }
+
     .loob {
-        height: 12% !important;
+        height: 5% !important;
         margin-top: 0px !important;
     }
 
