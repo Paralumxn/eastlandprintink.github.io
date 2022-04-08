@@ -44,3 +44,21 @@ document.onkeydown = function (e) {
         return false;
     }
 }
+
+let a = document.querySelectorAll('.anothaseec');
+let b = document.querySelector('#secur');
+
+a.forEach(x => {
+    x.addEventListener('click', event => {
+        b.click();
+    });
+});
+
+let c = document.querySelectorAll('.anothitt');
+let d = document.querySelector('#its');
+
+c.forEach(z => {
+    z.addEventListener('click', event => {
+        d.click();
+    });
+});
